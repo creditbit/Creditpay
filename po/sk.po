@@ -1,0 +1,1113 @@
+﻿msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: sk\n"
+
+#: public/views/modals/txp-details.html
+msgid ""
+"* Only payment proposals created by yourself with no peer actions can be "
+"removed"
+msgstr ""
+"* Odstrániť môžete iba platobné návrhy, ktoré ste sami vytvorili a bez zásahu rovnocenných "
+"členov"
+
+#: public/views/backup.html
+msgid ""
+"* You can safely install your backup on another device and use your wallet "
+"from multiple devices at the same time."
+msgstr ""
+"* Svoj zálohu môžete bezpečne nainštalovať na iné zálohovacie zariadenie a svoju peňaženku môžete používať "
+"súčasne z viacerých zariadení."
+
+#: public/views/splash.html
+msgid "A multisignature bitcoin wallet"
+msgstr "Peňaženka creditbit so systémom viacerých podpisov"
+
+#: public/views/preferences.html
+msgid "About Copay"
+msgstr "O peňaženke creditbit"
+
+#: public/views/modals/txp-details.html
+msgid "Accept"
+msgstr "Prijať"
+
+#: public/views/includes/sidebar.html
+msgid "Add wallet"
+msgstr "Pridať peňaženku"
+
+#: public/views/paymentUri.html public/views/modals/paypro.html
+msgid "Address"
+msgstr "Adresa"
+
+#: public/views/preferences.html
+msgid "Advanced"
+msgstr "Pokročilé"
+
+#: public/views/preferencesAlias.html
+msgid "Alias for <i>{{index.walletName}}</i>"
+msgstr "Prezývka pre <i>{{index.walletName}}</i>"
+
+#: public/views/splash.html
+msgid "Already have a wallet?"
+msgstr "Už máte peňaženku?"
+
+#: public/views/preferences.html
+msgid "Alternative Currency"
+msgstr "Alternatívna mena"
+
+#: public/views/paymentUri.html public/views/walletHome.html
+#: public/views/modals/txp-details.html
+msgid "Amount"
+msgstr "Suma"
+
+#: public/views/walletHome.html
+msgid "Amount in"
+msgstr "Suma v"
+
+#: public/views/preferencesLanguage.html
+msgid "Applying changes"
+msgstr "Uplatňujú sa zmeny"
+
+#: src/js/controllers/copayers.js src/js/controllers/preferencesDelete.js
+msgid "Are you sure you want to delete this wallet?"
+msgstr "Skutočne chcete túto peňaženku odstrániť?"
+
+#: public/views/walletHome.html
+msgid "Available Balance"
+msgstr "Dostupný zostatok"
+
+#: public/views/create.html public/views/join.html
+msgid "BIP32 master extended private key"
+msgstr "Hlavný rozšírený kľúč zabezpečenia BIP32"
+
+#: public/views/includes/topbar.html public/views/modals/tx-details.html
+#: public/views/modals/txp-details.html
+msgid "Back"
+msgstr "Späť"
+
+#: public/views/preferences.html
+msgid "Backup"
+msgstr "Záloha"
+
+#: src/js/controllers/backup.js
+msgid "Backup created"
+msgstr "Záloha bola vytvorená"
+
+#: public/views/walletHome.html
+msgid "Backup now"
+msgstr "Zálohovať teraz"
+
+#: public/views/backup.html
+msgid "Backup options"
+msgstr "Možnosti zálohovania"
+
+#: public/views/walletHome.html
+msgid ""
+"Before receiving funds, it is highly recommended you backup your wallet keys."
+msgstr ""
+"Pred prijatím financií vám dôrazne odporúčame zálohovať vaše kľúče peňaženky."
+
+#: public/views/paymentUri.html
+msgid "Bitcoin URI is NOT valid!"
+msgstr "Identifikátor creditbit URI NIE je platný!"
+
+#: public/views/walletHome.html
+msgid "Bitcoin address"
+msgstr "Adresa creditbit"
+
+#: public/views/modals/txp-details.html
+msgid "Broadcast Payment"
+msgstr "Odoslanie platby"
+
+#: src/js/controllers/walletHome.js
+msgid "Broadcasting Payment"
+msgstr "Platba sa odosiela"
+
+#: src/js/controllers/walletHome.js
+msgid "Broadcasting transaction"
+msgstr "Transakcia odosielania"
+
+#: public/views/unsupported.html
+msgid "Browser unsupported"
+msgstr "Prehliadač nie je podporovaný"
+
+#: public/views/modals/txp-details.html
+msgid "But not broadcasted. Try to send manually"
+msgstr "No nebola odoslaná. Vyskúšajte ju odoslať manuálne"
+
+#: public/views/includes/password.html
+msgid "CANCEL"
+msgstr "ZRUŠIŤ"
+
+#: public/views/copayers.html public/views/walletHome.html
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: public/views/modals/paypro.html
+msgid "Certified by"
+msgstr "Autor certifikácie:"
+
+#: public/views/preferencesAlias.html
+msgid "Changing wallet alias only affects the local wallet name."
+msgstr "Zmena prezývky peňaženky zmení iba miestny názov peňaženky."
+
+#: src/js/controllers/walletHome.js
+msgid "Check you connection and try again"
+msgstr "Skontrolujte svoje spojenie a skúste to znova"
+
+#: public/views/import.html
+msgid "Choose a backup file from your computer"
+msgstr "Vyberte súbor zálohy z vášho počítača"
+
+#: public/views/includes/topbar.html public/views/modals/copayers.html
+#: public/views/modals/paypro.html public/views/modals/scanner.html
+msgid "Close"
+msgstr "Zatvoriť"
+
+#: public/views/preferences.html
+msgid "Color"
+msgstr "Farba"
+
+#: public/views/preferencesAbout.html
+msgid "Commit hash"
+msgstr "Identifikátor transakcie"
+
+#: public/views/modals/tx-details.html
+msgid "Confirmations"
+msgstr "Potvrdenia"
+
+#: public/views/modals/copayers.html
+msgid "Copayers"
+msgstr "Členovia creditbit"
+
+#: public/views/backup.html
+msgid "Copy backup to a safe place"
+msgstr "Skopírujte zálohu na bezpečné miesto"
+
+#: public/views/backup.html
+msgid "Copy this text as it is to a safe place (notepad or email)"
+msgstr "Skopírujte tento text v jeho súčasnej forme na bezpečné miesto (poznámkový blok alebo e-mail)"
+
+#: public/views/backup.html
+msgid "Copy to clipboard"
+msgstr "Skopírovať do schránky"
+
+#: src/js/controllers/walletHome.js
+msgid "Could not accept payment. Check you connection and try again"
+msgstr "Platbu nebolo možné prijať. Skontrolujte svoje spojenie a vyskúšajte to znova"
+
+#: src/js/controllers/walletHome.js
+msgid "Could not broadcast payment. Check you connection and try again"
+msgstr "Platbu nebolo možné odoslať. Skontrolujte svoje spojenie a vyskúšajte to znova"
+
+#: src/js/controllers/walletHome.js
+msgid ""
+"Could not connect wallet service. Check your Internet connexion and your "
+"wallet service configuration."
+msgstr ""
+"Nepodarilo sa nám pripojiť vašu službu peňaženky. Skontrolujte svoje internetové pripojenie "
+"a svoju konfiguráciu služby peňaženky."
+
+#: src/js/controllers/walletHome.js
+msgid "Could not create address. Check you connection and try again"
+msgstr "Adresu sa nepodarilo vytvoriť. Skontrolujte svoje pripojenie a skúste to znova"
+
+#: src/js/controllers/walletHome.js
+msgid "Could not create payment proposal"
+msgstr "Nepodarilo sa vytvoriť návrh platby"
+
+#: src/js/services/profileService.js
+msgid "Could not create using the specified extended private key"
+msgstr "Nepodarilo sa vytvoriť pomocou zadaného rozšíreného kľúča zabezpečenia"
+
+#: src/js/controllers/import.js
+msgid "Could not decrypt file, check your password"
+msgstr "Súbor sa nepodarilo dešifrovať, skontrolujte si heslo"
+
+#: src/js/controllers/walletHome.js
+msgid "Could not delete payment proposal. Check you connection and try again"
+msgstr "Návrh platby sa nepodarilo odstrániť. Skontrolujte svoje pripojenie na internet a skúste to znova"
+
+#: src/js/controllers/walletHome.js
+msgid "Could not fetch payment information"
+msgstr "Nepodarilo sa načítať informácie o platbe"
+
+#: public/views/walletHome.html
+msgid "Could not fetch transaction history"
+msgstr "Nepodarilo sa načítať históriu transakcií"
+
+#: src/js/services/profileService.js
+msgid "Could not import. Check input file and password"
+msgstr "Import bol neúspešný. Skontrolujte vstupný súbor a heslo"
+
+#: src/js/services/profileService.js
+msgid "Could not join using the specified extended private key"
+msgstr "Nepodarilo sa pripojiť pomocou zadaného rozšíreného kľúča zabezpečenia"
+
+#: src/js/controllers/join.js
+msgid "Could not join wallet:"
+msgstr "Nepodarilo sa pripojiť k peňaženke:"
+
+#: src/js/controllers/walletHome.js
+msgid "Could not reject payment. Check you connection and try again"
+msgstr "Nepodarilo sa zamietnuť platbu. Skontrolujte svoje pripojenie a skúste to znova"
+
+#: src/js/controllers/walletHome.js
+msgid "Could not send payment"
+msgstr "Nepodarilo sa odoslať platbu"
+
+#: public/views/walletHome.html
+msgid "Could not update Wallet"
+msgstr "Nepodarilo sa aktualizovať peňaženku"
+
+#: public/views/walletHome.html
+msgid "Create"
+msgstr "Vytvoriť"
+
+#: public/views/add.html public/views/create.html
+msgid "Create new wallet"
+msgstr "Vytvoriť novú peňaženku"
+
+#: public/views/create.html
+msgid "Create {{requiredCopayers}}-of-{{totalCopayers}} wallet"
+msgstr "Vytvoriť peňaženku {{requiredCopayers}}-z-{{totalCopayers}}"
+
+#: public/views/includes/sidebar.html
+msgid "Create, join or import"
+msgstr "Vytvoriť, pripojiť sa alebo importovať"
+
+#: public/views/modals/txp-details.html
+msgid "Created by"
+msgstr "Autor:"
+
+#: public/views/splash.html
+msgid "Creating Profile..."
+msgstr "Vytvára sa profil..."
+
+#: public/views/create.html
+msgid "Creating Wallet..."
+msgstr "Vytvára sa peňaženka..."
+
+#: src/js/controllers/walletHome.js
+msgid "Creating transaction"
+msgstr "Vytvára sa transakcia"
+
+#: public/views/modals/tx-details.html
+msgid "Date"
+msgstr "Dátum"
+
+#: public/views/modals/txp-details.html
+msgid "Delete Payment Proposal"
+msgstr "Odstrániť návrh platby"
+
+#: public/views/preferencesAdvanced.html
+msgid "Delete Wallet"
+msgstr "Odstrániť peňaženku"
+
+#: public/views/copayers.html
+msgid "Delete it and create a new one"
+msgstr "Odstráňte ju a vytvorte novú"
+
+#: public/views/preferencesDeleteWallet.html
+msgid "Delete wallet"
+msgstr "Odstrániť peňaženku"
+
+#: src/js/controllers/walletHome.js
+msgid "Deleting payment"
+msgstr "Platba sa odstraňuje"
+
+#: public/views/modals/paypro.html public/views/modals/tx-details.html
+#: public/views/modals/txp-details.html
+msgid "Details"
+msgstr "Podrobnosti"
+
+#: src/js/controllers/index.js
+msgid "Deutsch"
+msgstr "Nemčina"
+
+#: public/views/preferences.html
+msgid "Disabled"
+msgstr "Vypnuté"
+
+#: public/views/backup.html
+msgid "Download backup"
+msgstr "Stiahnuť zálohu"
+
+#: public/views/includes/password.html
+msgid "ENTER"
+msgstr "ZADAŤ"
+
+#: public/views/preferences.html
+msgid "Email Notifications"
+msgstr "E-mailové upozornenia"
+
+#: public/views/preferences.html
+msgid "Encrypt Private Key"
+msgstr "Šifrovať súkromný kľúč"
+
+#: src/js/controllers/backup.js
+msgid "Encrypted backup file saved"
+msgstr "Šifrovaný súbor zálohy bol uložený"
+
+#: src/js/controllers/index.js
+msgid "English"
+msgstr "Angličtina"
+
+#: public/views/includes/password.html
+msgid "Enter your password"
+msgstr "Zadajte svoje heslo"
+
+#: src/js/services/profileService.js
+msgid "Error creating wallet"
+msgstr "Chyba pri vytváraní peňaženky"
+
+#: src/js/services/profileService.js
+msgid "Error creating wallet. Check your internet connection"
+msgstr "Chyba pri vytváraní peňaženky. Skontrolujte svoje pripojenie na internet"
+
+#: src/js/services/profileService.js
+msgid "Error importing wallet:"
+msgstr "Chyba pri importovaní peňaženky:"
+
+#: public/views/modals/paypro.html public/views/modals/txp-details.html
+msgid "Expires"
+msgstr "Platnosť končí"
+
+#: src/js/controllers/importLegacy.js
+msgid "Failed to import wallets"
+msgstr "Importovanie peňaženiek zlyhalo"
+
+#: public/views/create.html
+msgid "Family vacation funds"
+msgstr "Peniaze na rodinnú dovolenku"
+
+#. Get information of payment if using Payment Protocol
+#: src/js/controllers/walletHome.js
+msgid "Fetching Payment Information"
+msgstr "Načítavajú sa platobné informácie"
+
+#: src/js/controllers/index.js
+msgid "French"
+msgstr "Francúzština"
+
+#: src/js/services/notificationsService.js
+msgid "Funds received"
+msgstr "Financie boli prijaté"
+
+#: public/views/splash.html
+msgid "GET STARTED"
+msgstr "PUSTITE SA DO TOHO"
+
+#: public/views/walletHome.html
+msgid "Generate new address"
+msgstr "Vytvoriť novú adresu"
+
+#: public/views/preferences.html
+msgid "Global settings"
+msgstr "Globálne nastavenia"
+
+#: public/views/disclaimer.html
+msgid "Go back"
+msgstr "Ísť späť"
+
+#: public/views/import.html
+msgid "Have a Backup from Copay v0.9?"
+msgstr "Máte zálohu zo služby Copay v0.9?"
+
+#: public/views/create.html public/views/join.html
+msgid "Hide Advanced options"
+msgstr "Skryť pokročilé možnosti"
+
+#: src/js/controllers/index.js
+msgid "History"
+msgstr "História"
+
+#: src/js/controllers/index.js
+msgid "Home"
+msgstr "Domov"
+
+#: public/views/disclaimer.html
+msgid "I affirm that I have read, understood, and agree with these terms."
+msgstr "Potvrdzujeme, že som si tieto zmluvné podmienky prečítal/a, porozumel/a im a súhlasím s nimi."
+
+#: public/views/create.html public/views/join.html
+msgid "If not given, a secure key will be generated"
+msgstr "V prípade neposkytnutia sa vygeneruje bezpečnostný kľúč"
+
+#: public/views/importLegacy.html
+msgid "Import"
+msgstr "Importovať"
+
+#: public/views/import.html public/views/splash.html
+msgid "Import backup"
+msgstr "Importovať zálohu"
+
+#: public/views/importLegacy.html
+msgid "Import from the Cloud?"
+msgstr "Importovať z Cloudu?"
+
+#: public/views/import.html
+msgid "Import here"
+msgstr "Importovať sem"
+
+#: public/views/add.html
+msgid "Import wallet"
+msgstr "Importovať peňaženku"
+
+#: public/views/import.html
+msgid "Importing wallet..."
+msgstr "Importuje sa peňaženka..."
+
+#: public/views/importLegacy.html
+msgid "Importing..."
+msgstr "Importuje sa..."
+
+#: src/js/controllers/index.js
+msgid "Japanese"
+msgstr "Japončina"
+
+#: public/views/create.html public/views/join.html
+msgid "John"
+msgstr "John"
+
+#: public/views/join.html
+msgid "Join"
+msgstr "Pripojiť sa"
+
+#: public/views/add.html
+msgid "Join shared wallet"
+msgstr "Pripojte sa k zdieľanej peňaženke"
+
+#: public/views/join.html
+msgid "Joining Wallet..."
+msgstr "Pripája sa k peňaženke..."
+
+#: public/views/preferences.html
+msgid "Language"
+msgstr "Jazyk"
+
+#: public/views/importLegacy.html
+msgid "Learn more about Wallet Migration"
+msgstr "Ďalšie informácie o migrácii peňaženky"
+
+#: public/views/paymentUri.html
+msgid "Make a payment to"
+msgstr "Uskutočniť platbu pre"
+
+#: public/views/create.html public/views/join.html
+msgid "Master extended private key"
+msgstr "Hlavný rozšírený kľúč zabezpečenia"
+
+#: public/views/includes/copayers.html public/views/modals/copayers.html
+#: public/views/modals/tx-details.html public/views/modals/txp-details.html
+msgid "Me"
+msgstr "Ja"
+
+#: public/views/modals/paypro.html
+msgid "Memo"
+msgstr "Pripomienka"
+
+#: public/views/modals/tx-details.html
+msgid "Merchant message"
+msgstr "Správa kupcu"
+
+#: public/views/paymentUri.html
+msgid "Message"
+msgstr "Správa"
+
+#: public/views/walletHome.html
+msgid "More"
+msgstr "Viac"
+
+#: public/views/walletHome.html
+msgid "Moved"
+msgstr "Presunuté"
+
+#: public/views/walletHome.html
+msgid "Multisignature wallet"
+msgstr "Peňaženka so systémom viacerých podpisov"
+
+#: public/views/walletHome.html
+msgid "My Bitcoin address"
+msgstr "Moja adresa creditbit"
+
+#: public/views/paymentUri.html
+msgid "Network"
+msgstr "Sieť"
+
+#: src/js/services/notificationsService.js
+msgid "New Payment Proposal"
+msgstr "Nový návrh na platbu"
+
+#: public/views/modals/confirmation.html
+msgid "No"
+msgstr "Nie"
+
+#: public/views/walletHome.html
+msgid "No transactions yet"
+msgstr "Zatiaľ žiadne transakcie"
+
+#: public/views/walletHome.html
+msgid "Not valid"
+msgstr "Neplatné"
+
+#: public/views/walletHome.html public/views/modals/tx-details.html
+#: public/views/modals/txp-details.html
+msgid "Note"
+msgstr "Poznámka"
+
+#: public/views/modals/tx-status.html
+msgid "OKAY"
+msgstr "OK"
+
+#: public/views/modals/tx-details.html public/views/modals/txp-details.html
+msgid "Participants"
+msgstr "Účastníci"
+
+#: public/views/import.html public/views/importLegacy.html
+msgid "Password"
+msgstr "Heslo"
+
+#: public/views/includes/password.html
+msgid "Password cannot be recovered. Be sure to write it down"
+msgstr "Heslo nie je možné obnoviť. Nezabudnite si ho napísať"
+
+#: src/js/services/profileService.js
+msgid "Password needed"
+msgstr "Je potrebné heslo"
+
+#: src/js/controllers/password.js
+msgid "Passwords do not match"
+msgstr "Heslá sa nezhodujú"
+
+#: public/views/join.html
+msgid "Paste invitation here"
+msgstr "Sem vložte pozvánku"
+
+#: public/views/import.html
+msgid "Paste the backup plain text code"
+msgstr "Vložte čistý textový kód zálohy"
+
+#: public/views/modals/paypro.html
+msgid "Pay To"
+msgstr "Platba pre"
+
+#: public/views/modals/tx-status.html
+msgid "Payment Accepted"
+msgstr "Platba prijatá"
+
+#: public/views/modals/txp-details.html
+msgid "Payment Proposal"
+msgstr "Návrh platby"
+
+#: public/views/modals/tx-status.html
+msgid "Payment Proposal Created"
+msgstr "Návrh platby bol vytvorený"
+
+#: src/js/services/notificationsService.js
+msgid "Payment Proposal Rejected"
+msgstr "Návrh platby bol zamietnutý"
+
+#: src/js/services/notificationsService.js
+msgid "Payment Proposal Rejected by Copayer"
+msgstr "Návrh platby bol zamietnutý členom creditbit"
+
+#: src/js/services/notificationsService.js
+msgid "Payment Proposal Signed by Copayer"
+msgstr "Návrh platby bol podpísaný členom creditbit"
+
+#: public/views/walletHome.html
+msgid "Payment Proposals"
+msgstr "Návrhy platieb"
+
+#: src/js/controllers/walletHome.js
+msgid "Payment Protocol not supported on Chrome App"
+msgstr "Protokol platby nie je podporovaný v aplikácii Chrome"
+
+#: public/views/modals/tx-status.html
+msgid "Payment Rejected"
+msgstr "Platba zamietnutá"
+
+#: public/views/modals/tx-status.html src/js/services/notificationsService.js
+msgid "Payment Sent"
+msgstr "Platba odoslaná"
+
+#: public/views/modals/txp-details.html
+msgid "Payment accepted..."
+msgstr "Platba prijatá..."
+
+#: public/views/modals/txp-details.html
+msgid "Payment details"
+msgstr "Podrobnosti platby"
+
+#: public/views/modals/txp-details.html
+msgid "Payment finally rejected"
+msgstr "Platba bola definitívne zamietnutá"
+
+#: public/views/modals/paypro.html
+msgid "Payment request"
+msgstr "Žiadosť o platbu"
+
+#: public/views/modals/txp-details.html
+msgid "Payment sent!"
+msgstr "Platba odoslaná!"
+
+#: public/views/walletHome.html
+msgid "Payment to"
+msgstr "Platba pre"
+
+#: public/views/preferencesDeleteWallet.html
+msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
+msgstr "Natrvalo odstrániť túto peňaženku. TENTO KROK NIE JE MOŽNÉ VRÁTIŤ SPÄŤ"
+
+#: public/views/create.html
+msgid "Personal Wallet"
+msgstr "Osobná peňaženka"
+
+#: src/js/controllers/create.js src/js/controllers/join.js
+msgid "Please enter the required fields"
+msgstr "Vyplňte, prosím, povinné polia"
+
+#: src/js/controllers/import.js
+msgid "Please, select your backup file"
+msgstr "Vyberte, prosím, plán zálohy"
+
+#: src/js/controllers/index.js
+msgid "Portuguese"
+msgstr "Portugalčina"
+
+#: public/views/walletHome.html
+msgid "Preferences"
+msgstr "Predvoľby"
+
+#: public/views/modals/scanner.html
+msgid "QR-Scanner"
+msgstr "QR-skener"
+
+#: src/js/controllers/index.js
+msgid "Receive"
+msgstr "Prijať"
+
+#: public/views/walletHome.html
+msgid "Received"
+msgstr "Prijaté"
+
+#: public/views/walletHome.html
+msgid "Reconnecting to Wallet Service..."
+msgstr "Znova sa pripája k službe peňaženky..."
+
+#: public/views/walletHome.html
+msgid "Recreate"
+msgstr "Vytvoriť znova"
+
+#: public/views/walletHome.html
+msgid "Recreating Wallet..."
+msgstr "Peňaženka sa vytvára znova..."
+
+#: public/views/modals/txp-details.html
+msgid "Reject"
+msgstr "Odmietnuť"
+
+#: src/js/controllers/walletHome.js
+msgid "Rejecting payment"
+msgstr "Platba sa odmieta"
+
+#: public/views/preferencesAbout.html
+msgid "Release Information"
+msgstr "Uvoľniť informácie"
+
+#: public/views/backup.html public/views/includes/password.html
+msgid "Repeat password"
+msgstr "Zopakovanie hesla"
+
+#: public/views/import.html public/views/join.html
+msgid "Required"
+msgstr "Povinné"
+
+#: public/views/splash.html
+msgid "Retrying..."
+msgstr "Skúša sa znova..."
+
+#: public/views/includes/password.html
+msgid "SET"
+msgstr "NASTAVIŤ"
+
+#: public/views/walletHome.html
+msgid "SKIP BACKUP"
+msgstr "PRESKOČIŤ ZÁLOHU"
+
+#: public/views/preferencesAlias.html public/views/preferencesBwsUrl.html
+#: public/views/preferencesEmail.html
+msgid "Save"
+msgstr "Uložiť"
+
+#: public/views/preferencesEmail.html
+msgid "Saving preferences..."
+msgstr "Ukladajú sa predvoľby..."
+
+#: src/js/services/notificationsService.js
+msgid "Scan Finished"
+msgstr "Skenovanie dokončené"
+
+#: public/views/preferencesAdvanced.html
+msgid "Scan addresses for funds"
+msgstr "Skenovať adresy pre financie"
+
+#: public/views/walletHome.html
+msgid "Scan status finished with error"
+msgstr "Skenovanie dokončené s chybou"
+
+#: public/views/walletHome.html
+msgid "Scanning Wallet funds..."
+msgstr "Skenujú sa financie peňaženky..."
+
+#: public/views/modals/tx-details.html
+msgid "See it on the blockchain"
+msgstr "Zobraziť v službe Blockchain"
+
+#: public/views/import.html
+msgid "Select a backup file"
+msgstr "Vybrať súbor zálohy"
+
+#: public/views/paymentUri.html
+msgid "Select a wallet"
+msgstr "Vybrať peňaženku"
+
+#: public/views/create.html
+msgid "Select required number of signatures"
+msgstr "Vyberte potrebný počet podpisov"
+
+#: public/views/create.html
+msgid "Select total number of copayers"
+msgstr "Vyberte celkový počet členov creditbit"
+
+#: public/views/walletHome.html public/views/includes/transaction.html
+#: src/js/controllers/index.js
+msgid "Send"
+msgstr "Odoslať"
+
+#: public/views/backup.html public/views/preferencesLogs.html
+msgid "Send by email"
+msgstr "Odoslať e-mailom"
+
+#: public/views/walletHome.html
+msgid "Sent"
+msgstr "Odoslať"
+
+#: public/views/importLegacy.html
+msgid "Server"
+msgstr "Server"
+
+#: public/views/preferencesAbout.html
+msgid "Session log"
+msgstr "Záznam relácie"
+
+#: public/views/backup.html
+msgid "Set up a Password for your backup"
+msgstr "Nastavte heslo pre zálohovanie"
+
+#: public/views/includes/password.html
+msgid "Set up a password"
+msgstr "Nastaviť heslo"
+
+#: public/views/preferencesEmail.html
+msgid ""
+"Setting up email notifications could weaken your privacy, if the wallet "
+"service provider is compromised. Information available to an attacker would "
+"include your wallet addresses and its balance, but no more."
+msgstr ""
+"Nastavenie upozornení e-mailom môže oslabiť vašu ochranu súkromia, ak bude poskytovateľ "
+"služby peňaženky odhalený. Informácie prístupné útočníkovi by zahŕňali "
+"adresu vašej peňaženky a jej zostatok, no žiadne ďalšie informácie."
+
+#: public/views/walletHome.html
+msgid "Share address"
+msgstr "Zdieľať adresu"
+
+#: public/views/copayers.html
+msgid "Share invitation"
+msgstr "Zdieľať pozvanie"
+
+#: public/views/copayers.html
+msgid "Share this invitation with your copayers"
+msgstr "Zdieľajte toto pozvanie s členmi creditbit"
+
+#: public/views/walletHome.html
+msgid ""
+"Share this wallet address to receive payments. To protect your privacy, new "
+"addresses are generated automatically once you use them."
+msgstr ""
+"Ak chcete prijímať platby, zdieľajte túto adresu peňaženky. Na ochranu vášho súkromia "
+"sa po ich použití vygenerujú vždy nové adresy."
+
+#: public/views/create.html
+msgid "Shared Wallet"
+msgstr "Zdieľaná peňaženka"
+
+#: public/views/create.html public/views/join.html
+msgid "Show Advanced options"
+msgstr "Zobraziť pokročilé možnosti"
+
+#: src/js/controllers/walletHome.js
+msgid "Signing payment"
+msgstr "Podpisuje sa platba"
+
+#: src/js/controllers/walletHome.js
+msgid "Signing transaction"
+msgstr "Podpisuje sa transakcia"
+
+#: src/js/controllers/index.js
+msgid "Spanish"
+msgstr "Španielčina"
+
+#: src/js/controllers/copayers.js src/js/controllers/import.js
+#: src/js/controllers/preferencesDelete.js
+msgid "Success"
+msgstr "Úspech"
+
+#: public/views/walletHome.html
+msgid "Tap to retry"
+msgstr "Skúste to znova klepnutím"
+
+#: public/views/disclaimer.html public/views/preferencesAbout.html
+msgid "Terms of Use"
+msgstr "Zmluvné podmienky"
+
+#: public/views/create.html
+msgid "Testnet"
+msgstr "Testovacia sieť"
+
+#: src/js/controllers/walletHome.js
+msgid ""
+"The payment was created but could not be completed. Please try again from "
+"home screen"
+msgstr ""
+"Platba bola vytvorená, ale nepodarilo sa ju dokončiť. Skúste to, prosím, znova z "
+"domovskej obrazovky"
+
+#: src/js/controllers/walletHome.js
+msgid ""
+"The payment was created but could not be signed. Please try again from home "
+"screen."
+msgstr ""
+"Platba bola vytvorená, ale nepodarilo sa ju podpísať. Skúste to, prosím, znova z domovskej "
+"obrazovky."
+
+#: public/views/modals/txp-details.html
+msgid "The payment was removed by creator"
+msgstr "Platbu odstránil jej tvorca"
+
+#: src/js/controllers/walletHome.js
+msgid ""
+"The payment was signed but could not be broadcasted. Please try again from "
+"home screen."
+msgstr ""
+"Platba bola podpísaná, ale nepodarilo sa ju odoslať. Skúste to, prosím, znova z "
+"domovskej obrazovky."
+
+#: public/views/backup.html
+msgid ""
+"The private key for this wallet is encrypted. Exporting a backup will keep "
+"the private key encrypted in the backup archive."
+msgstr ""
+"Súkromný kľúč pre túto peňaženku je šifrovaný. Exportovanie zálohy zachová "
+"súkromný kľúč zašifrovaný v archíve zálohy."
+
+#: src/js/controllers/copayers.js src/js/controllers/preferencesDelete.js
+msgid "The wallet \"{{walletName}}\" was deleted"
+msgstr "Peňaženka \"{{walletName}}\" bola odstránená"
+
+#: src/js/controllers/import.js
+msgid "There is an error in the form"
+msgstr "Vo formulári sa nachádza chyba"
+
+#: public/views/walletHome.html
+msgid ""
+"This wallet is not registered at the given Bitcore Wallet Service (BWS). You "
+"can recreate it from the local information."
+msgstr ""
+"Táto peňaženka nie je zaregistrovaná v danej službe creditbit Wallet Service (CWS). Môžete "
+"ju znova vytvoriť z miestnych informácií."
+
+#: public/views/modals/txp-details.html
+msgid "Time"
+msgstr "Čas"
+
+#: public/views/walletHome.html public/views/includes/transaction.html
+#: public/views/modals/tx-details.html public/views/modals/txp-details.html
+msgid "To"
+msgstr "Pre"
+
+#: public/views/walletHome.html
+msgid "Total Locked Balance"
+msgstr "Celkový uzamknutý zostatok"
+
+#: public/views/modals/tx-details.html
+msgid "Transaction"
+msgstr "Transakcia"
+
+#: src/js/controllers/walletHome.js
+msgid "Unable to send transaction proposal"
+msgstr "Nepodarilo sa odoslať návrh transakcie"
+
+#: public/views/walletHome.html public/views/modals/tx-details.html
+msgid "Unconfirmed"
+msgstr "Nepotvrdené"
+
+#: public/views/preferences.html
+msgid "Unit"
+msgstr "Jednotka"
+
+#: public/views/walletHome.html
+msgid "Unsent transactions"
+msgstr "Neodoslané transakcie"
+
+#: public/views/modals/paypro.html
+msgid "Untrusted"
+msgstr "Nedôveryhodné"
+
+#: public/views/walletHome.html
+msgid "Updating Wallet..."
+msgstr "Peňaženka sa aktualizuje..."
+
+#: public/views/preferencesAbout.html
+msgid "Version"
+msgstr "Verzia"
+
+#: public/views/backup.html
+msgid "View backup"
+msgstr "Zobraziť zálohu"
+
+#: public/views/walletHome.html
+msgid "WARNING: Backup needed"
+msgstr "UPOZORNENIE: Je potrebná záloha"
+
+#: public/views/walletHome.html
+msgid "WARNING: Wallet not registered"
+msgstr "UPOZORNENIE: Peňaženka nie je zaregistrovaná"
+
+#: public/views/splash.html
+msgid "WELCOME TO COPAY"
+msgstr "VITAJTE V SLUŽBE creditbit"
+
+#: public/views/copayers.html
+msgid "Waiting for copayers"
+msgstr "Čaká sa na členov creditbit"
+
+#: public/views/copayers.html
+msgid "Waiting..."
+msgstr "Čaká sa..."
+
+#: public/views/preferences.html
+msgid "Wallet Alias"
+msgstr "Prezývka peňaženky"
+
+#: src/js/services/profileService.js
+msgid "Wallet Already Imported:"
+msgstr "Peňaženka už bola importovaná:"
+
+#: public/views/join.html
+msgid "Wallet Invitation"
+msgstr "Pozvánka peňaženky"
+
+#: public/views/join.html
+msgid "Wallet Invitation is not valid!"
+msgstr "Pozvánka peňaženky je neplatná!"
+
+#: src/js/services/profileService.js
+msgid "Wallet already exists"
+msgstr "Peňaženka už existuje"
+
+#: public/views/copayers.html
+msgid "Wallet incomplete and broken"
+msgstr "Peňaženka je neúplná a nefunkčná"
+
+#: public/views/create.html
+msgid "Wallet name"
+msgstr "Názov peňaženky"
+
+#: src/js/controllers/walletHome.js
+msgid ""
+"Wallet service timed out. Check your Internet connexion and your wallet "
+"service configuration."
+msgstr ""
+"Služba peňaženky vypršala. Skontrolujte svoje pripojenie na internet a konfiguráciu "
+"služby peňaženky."
+
+#: public/views/preferencesDeleteWallet.html
+msgid "Warning!"
+msgstr "Upozornenie!"
+
+#: src/js/services/profileService.js
+msgid "Wrong password"
+msgstr "Nesprávne heslo"
+
+#: public/views/modals/confirmation.html
+msgid "Yes"
+msgstr "Áno"
+
+#: public/views/walletHome.html
+msgid "You do not have a wallet"
+msgstr "Nemáte peňaženku"
+
+#: public/views/backup.html public/views/import.html
+msgid "Your backup password"
+msgstr "Vaše heslo zálohy"
+
+#: public/views/create.html public/views/join.html
+msgid "Your nickname"
+msgstr "Vaša prezývka"
+
+#: public/views/includes/password.html
+msgid "Your password"
+msgstr "Vaše heslo"
+
+#: public/views/importLegacy.html
+msgid "Your profile password"
+msgstr "Heslo vášho profilu"
+
+#: src/js/controllers/import.js
+msgid "Your wallet has been imported correctly"
+msgstr "Vaša peňaženka bola importovaná správne"
+
+#: public/views/preferencesEmail.html
+msgid "email for wallet notifications"
+msgstr "e-mail pre upozornenia peňaženky"
+
+#: public/views/walletHome.html
+msgid "locked by pending payments"
+msgstr "uzamknuté nevybavenými platbami"
+
+#: public/views/copayers.html public/views/walletHome.html
+#: public/views/includes/sidebar.html
+msgid "of"
+msgstr "z"
+
+#: public/views/walletHome.html
+msgid "optional"
+msgstr "voliteľné"
+
+#: public/views/preferences.html
+msgid "settings"
+msgstr "nastavenia"
+
+#: public/views/walletHome.html
+msgid "too long!"
+msgstr "príliš dlhé!"
+
+#: src/js/controllers/importLegacy.js
+msgid ""
+"{{len}} wallets imported. Funds scanning in progress. Hold on to see updated "
+"balance"
+msgstr ""
+"{{len}} peňaženky importované. Prebieha skenovanie financií. Počkajte, kým sa zobrazí aktualizovaný "
+"zostatok"

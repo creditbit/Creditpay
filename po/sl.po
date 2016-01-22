@@ -1,0 +1,1113 @@
+﻿msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: sl\n"
+
+#: public/views/modals/txp-details.html
+msgid ""
+"* Only payment proposals created by yourself with no peer actions can be "
+"removed"
+msgstr ""
+"* Le predloge za plačila, ki ste jih ustvarili sami, brez pomoči vrstnikov, je mogoče "
+"odstraniti"
+
+#: public/views/backup.html
+msgid ""
+"* You can safely install your backup on another device and use your wallet "
+"from multiple devices at the same time."
+msgstr ""
+"* Svojo varnostno kopijo lahko varno namestite na drugo napravo ter svojo denarnico uporabljate "
+"istočasno na več različnih napravah."
+
+#: public/views/splash.html
+msgid "A multisignature bitcoin wallet"
+msgstr "creditbit denarnica z več podpisi"
+
+#: public/views/preferences.html
+msgid "About Copay"
+msgstr "O creditbit"
+
+#: public/views/modals/txp-details.html
+msgid "Accept"
+msgstr "Sprejmi"
+
+#: public/views/includes/sidebar.html
+msgid "Add wallet"
+msgstr "Dodaj denarnico"
+
+#: public/views/paymentUri.html public/views/modals/paypro.html
+msgid "Address"
+msgstr "Naslov"
+
+#: public/views/preferences.html
+msgid "Advanced"
+msgstr "Napredno"
+
+#: public/views/preferencesAlias.html
+msgid "Alias for <i>{{index.walletName}}</i>"
+msgstr "Drugo ime za <i>{{index.walletName}}</i>"
+
+#: public/views/splash.html
+msgid "Already have a wallet?"
+msgstr "Že imate denarnico?"
+
+#: public/views/preferences.html
+msgid "Alternative Currency"
+msgstr "Alternativna valuta"
+
+#: public/views/paymentUri.html public/views/walletHome.html
+#: public/views/modals/txp-details.html
+msgid "Amount"
+msgstr "Vsota"
+
+#: public/views/walletHome.html
+msgid "Amount in"
+msgstr "Vsota dohodkov"
+
+#: public/views/preferencesLanguage.html
+msgid "Applying changes"
+msgstr "Uveljavljanje sprememb"
+
+#: src/js/controllers/copayers.js src/js/controllers/preferencesDelete.js
+msgid "Are you sure you want to delete this wallet?"
+msgstr "Ali ste prepričani, da želite izbrisati to denarnico?"
+
+#: public/views/walletHome.html
+msgid "Available Balance"
+msgstr "Stanje na voljo"
+
+#: public/views/create.html public/views/join.html
+msgid "BIP32 master extended private key"
+msgstr "BIP32 glavni podaljšani zasebni ključ"
+
+#: public/views/includes/topbar.html public/views/modals/tx-details.html
+#: public/views/modals/txp-details.html
+msgid "Back"
+msgstr "Nazaj"
+
+#: public/views/preferences.html
+msgid "Backup"
+msgstr "Varnostna kopija"
+
+#: src/js/controllers/backup.js
+msgid "Backup created"
+msgstr "Varnostna kopija ustvarjena"
+
+#: public/views/walletHome.html
+msgid "Backup now"
+msgstr "Ustvari varnostno kopijo"
+
+#: public/views/backup.html
+msgid "Backup options"
+msgstr "Možnosti varnostnega kopiranja"
+
+#: public/views/walletHome.html
+msgid ""
+"Before receiving funds, it is highly recommended you backup your wallet keys."
+msgstr ""
+"Preden prejmete denar vam toplo priporočamo, da ustvarite varnostne kopije ključev svoje denarnice."
+
+#: public/views/paymentUri.html
+msgid "Bitcoin URI is NOT valid!"
+msgstr "creditbit URI NI veljaven!"
+
+#: public/views/walletHome.html
+msgid "Bitcoin address"
+msgstr "creditbit naslov"
+
+#: public/views/modals/txp-details.html
+msgid "Broadcast Payment"
+msgstr "Prenesi plačilo"
+
+#: src/js/controllers/walletHome.js
+msgid "Broadcasting Payment"
+msgstr "Prenašanje plačila"
+
+#: src/js/controllers/walletHome.js
+msgid "Broadcasting transaction"
+msgstr "Prenašanje transakcije"
+
+#: public/views/unsupported.html
+msgid "Browser unsupported"
+msgstr "Brskalnik ni podprt"
+
+#: public/views/modals/txp-details.html
+msgid "But not broadcasted. Try to send manually"
+msgstr "Vendar brez prenosa. Poskusite z ročnim pošiljanjem"
+
+#: public/views/includes/password.html
+msgid "CANCEL"
+msgstr "PREKLIČI"
+
+#: public/views/copayers.html public/views/walletHome.html
+msgid "Cancel"
+msgstr "Prekliči"
+
+#: public/views/modals/paypro.html
+msgid "Certified by"
+msgstr "Potrjuje"
+
+#: public/views/preferencesAlias.html
+msgid "Changing wallet alias only affects the local wallet name."
+msgstr "Spreminjanje drugega imena denarnice vpliva le na lokalno ime denarnice."
+
+#: src/js/controllers/walletHome.js
+msgid "Check you connection and try again"
+msgstr "Preverite svojo povezavo in poskusite ponovno"
+
+#: public/views/import.html
+msgid "Choose a backup file from your computer"
+msgstr "Izberite datoteko varnostne kopije s svojega računalnika"
+
+#: public/views/includes/topbar.html public/views/modals/copayers.html
+#: public/views/modals/paypro.html public/views/modals/scanner.html
+msgid "Close"
+msgstr "Zapri"
+
+#: public/views/preferences.html
+msgid "Color"
+msgstr "Barva"
+
+#: public/views/preferencesAbout.html
+msgid "Commit hash"
+msgstr "Opravi razpršitev"
+
+#: public/views/modals/tx-details.html
+msgid "Confirmations"
+msgstr "Potrditve"
+
+#: public/views/modals/copayers.html
+msgid "Copayers"
+msgstr "creditbit člani"
+
+#: public/views/backup.html
+msgid "Copy backup to a safe place"
+msgstr "Kopiraj varnostno kopijo na varno lokacijo"
+
+#: public/views/backup.html
+msgid "Copy this text as it is to a safe place (notepad or email)"
+msgstr "Kopiraj to besedilo v trenutni obliki na varno lokacijo (beležnica ali e-pošta)"
+
+#: public/views/backup.html
+msgid "Copy to clipboard"
+msgstr "Kopiraj v odložišče"
+
+#: src/js/controllers/walletHome.js
+msgid "Could not accept payment. Check you connection and try again"
+msgstr "Plačila ni bilo mogoče sprejeti. Preverite svojo povezavo in poskusite ponovno"
+
+#: src/js/controllers/walletHome.js
+msgid "Could not broadcast payment. Check you connection and try again"
+msgstr "Plačila ni bilo mogoče prenesti. Preverite svojo povezavo in poskusite ponovno"
+
+#: src/js/controllers/walletHome.js
+msgid ""
+"Could not connect wallet service. Check your Internet connexion and your "
+"wallet service configuration."
+msgstr ""
+"Storitev denarnice ni bilo mogoče povezati. Preverite svojo internetno povezavo in "
+"konfiguracijo storitev vaše denarnice."
+
+#: src/js/controllers/walletHome.js
+msgid "Could not create address. Check you connection and try again"
+msgstr "Naslova ni bilo mogoče ustvariti. Preverite svojo povezavo in poskusite ponovno"
+
+#: src/js/controllers/walletHome.js
+msgid "Could not create payment proposal"
+msgstr "Predloga plačila ni bilo mogoče ustvariti"
+
+#: src/js/services/profileService.js
+msgid "Could not create using the specified extended private key"
+msgstr "Ustvarjanje z uporabo navedenega podaljšanega zasebnega ključa ni uspelo"
+
+#: src/js/controllers/import.js
+msgid "Could not decrypt file, check your password"
+msgstr "Datoteke ni bilo mogoče odkodirati, preverite svoje geslo"
+
+#: src/js/controllers/walletHome.js
+msgid "Could not delete payment proposal. Check you connection and try again"
+msgstr "Predloga plačila ni bilo mogoče izbrisati. Preverite svojo povezavo in poskusite ponovno"
+
+#: src/js/controllers/walletHome.js
+msgid "Could not fetch payment information"
+msgstr "Informacij o plačilu ni bilo mogoče prejeti"
+
+#: public/views/walletHome.html
+msgid "Could not fetch transaction history"
+msgstr "Zgodovine transakcij ni bilo mogoče prejeti"
+
+#: src/js/services/profileService.js
+msgid "Could not import. Check input file and password"
+msgstr "Uvoz ni bil mogoč. Preverite vhodno datoteko in geslo"
+
+#: src/js/services/profileService.js
+msgid "Could not join using the specified extended private key"
+msgstr "Pridružitev z uporabo navedenega podaljšanega zasebnega ključa ni uspela"
+
+#: src/js/controllers/join.js
+msgid "Could not join wallet:"
+msgstr "Pridružitev denarnici ni uspela:"
+
+#: src/js/controllers/walletHome.js
+msgid "Could not reject payment. Check you connection and try again"
+msgstr "Plačila ni bilo mogoče zavrniti. Preverite svojo povezavo in poskusite ponovno"
+
+#: src/js/controllers/walletHome.js
+msgid "Could not send payment"
+msgstr "Plačila ni bilo mogoče poslati"
+
+#: public/views/walletHome.html
+msgid "Could not update Wallet"
+msgstr "Denarnice ni bilo mogoče posodobiti"
+
+#: public/views/walletHome.html
+msgid "Create"
+msgstr "Ustvari"
+
+#: public/views/add.html public/views/create.html
+msgid "Create new wallet"
+msgstr "Ustvari novo denarnico"
+
+#: public/views/create.html
+msgid "Create {{requiredCopayers}}-of-{{totalCopayers}} wallet"
+msgstr "Ustvari {{requiredCopayers}}-od-{{totalCopayers}} denarnice"
+
+#: public/views/includes/sidebar.html
+msgid "Create, join or import"
+msgstr "Ustvarite, pridružite se ali uvozite"
+
+#: public/views/modals/txp-details.html
+msgid "Created by"
+msgstr "Ustvaril"
+
+#: public/views/splash.html
+msgid "Creating Profile..."
+msgstr "Ustvarjanje profila..."
+
+#: public/views/create.html
+msgid "Creating Wallet..."
+msgstr "Ustvarjanje denarnice..."
+
+#: src/js/controllers/walletHome.js
+msgid "Creating transaction"
+msgstr "Ustvarjanje transakcije"
+
+#: public/views/modals/tx-details.html
+msgid "Date"
+msgstr "Datum"
+
+#: public/views/modals/txp-details.html
+msgid "Delete Payment Proposal"
+msgstr "Izbriši predlog plačila"
+
+#: public/views/preferencesAdvanced.html
+msgid "Delete Wallet"
+msgstr "Izbriši denarnico"
+
+#: public/views/copayers.html
+msgid "Delete it and create a new one"
+msgstr "Izbriši in ustvari novo"
+
+#: public/views/preferencesDeleteWallet.html
+msgid "Delete wallet"
+msgstr "Izbriši denarnico"
+
+#: src/js/controllers/walletHome.js
+msgid "Deleting payment"
+msgstr "Brisanje plačila"
+
+#: public/views/modals/paypro.html public/views/modals/tx-details.html
+#: public/views/modals/txp-details.html
+msgid "Details"
+msgstr "Podrobnosti"
+
+#: src/js/controllers/index.js
+msgid "Deutsch"
+msgstr "Nemško"
+
+#: public/views/preferences.html
+msgid "Disabled"
+msgstr "Onemogočeno"
+
+#: public/views/backup.html
+msgid "Download backup"
+msgstr "Prenesi varnostno kopijo"
+
+#: public/views/includes/password.html
+msgid "ENTER"
+msgstr "VNESI"
+
+#: public/views/preferences.html
+msgid "Email Notifications"
+msgstr "E-poštna obvestila"
+
+#: public/views/preferences.html
+msgid "Encrypt Private Key"
+msgstr "Šifriraj zasebni ključ"
+
+#: src/js/controllers/backup.js
+msgid "Encrypted backup file saved"
+msgstr "Šifrirana datoteka varnostne kopije shranjena"
+
+#: src/js/controllers/index.js
+msgid "English"
+msgstr "Angleško"
+
+#: public/views/includes/password.html
+msgid "Enter your password"
+msgstr "Vnesite svoje geslo"
+
+#: src/js/services/profileService.js
+msgid "Error creating wallet"
+msgstr "Napaka pri ustvarjanju denarnice"
+
+#: src/js/services/profileService.js
+msgid "Error creating wallet. Check your internet connection"
+msgstr "Napaka pri ustvarjanju denarnice. Preverite svojo internetno povezavo"
+
+#: src/js/services/profileService.js
+msgid "Error importing wallet:"
+msgstr "Napaka pri uvažanju datoteke:"
+
+#: public/views/modals/paypro.html public/views/modals/txp-details.html
+msgid "Expires"
+msgstr "Poteče"
+
+#: src/js/controllers/importLegacy.js
+msgid "Failed to import wallets"
+msgstr "Uvoz denarnic ni uspel"
+
+#: public/views/create.html
+msgid "Family vacation funds"
+msgstr "Družinski sklad za počitnice"
+
+#. Get information of payment if using Payment Protocol
+#: src/js/controllers/walletHome.js
+msgid "Fetching Payment Information"
+msgstr "Prejemanje informacij o plačilu"
+
+#: src/js/controllers/index.js
+msgid "French"
+msgstr "Francosko"
+
+#: src/js/services/notificationsService.js
+msgid "Funds received"
+msgstr "Prejeta sredstva"
+
+#: public/views/splash.html
+msgid "GET STARTED"
+msgstr "ZAČNITE"
+
+#: public/views/walletHome.html
+msgid "Generate new address"
+msgstr "Ustvari nov naslov"
+
+#: public/views/preferences.html
+msgid "Global settings"
+msgstr "Splošne nastavitve"
+
+#: public/views/disclaimer.html
+msgid "Go back"
+msgstr "Nazaj"
+
+#: public/views/import.html
+msgid "Have a Backup from Copay v0.9?"
+msgstr "Ali imate varnostno kopijo Copay v0.9?"
+
+#: public/views/create.html public/views/join.html
+msgid "Hide Advanced options"
+msgstr "Skrij napredne možnosti"
+
+#: src/js/controllers/index.js
+msgid "History"
+msgstr "Zgodovina"
+
+#: src/js/controllers/index.js
+msgid "Home"
+msgstr "Domov"
+
+#: public/views/disclaimer.html
+msgid "I affirm that I have read, understood, and agree with these terms."
+msgstr "Potrjujem, da sem prebral(-a), razumel(-a) ter se strinjam s temi pogoji."
+
+#: public/views/create.html public/views/join.html
+msgid "If not given, a secure key will be generated"
+msgstr "V primeru, da ni bil podan, bo ustvarjen varnostni ključ"
+
+#: public/views/importLegacy.html
+msgid "Import"
+msgstr "Uvozi"
+
+#: public/views/import.html public/views/splash.html
+msgid "Import backup"
+msgstr "Uvozi varnostno kopijo"
+
+#: public/views/importLegacy.html
+msgid "Import from the Cloud?"
+msgstr "Uvozi iz storitve Cloud?"
+
+#: public/views/import.html
+msgid "Import here"
+msgstr "Uvozi sem"
+
+#: public/views/add.html
+msgid "Import wallet"
+msgstr "Uvozi denarnico"
+
+#: public/views/import.html
+msgid "Importing wallet..."
+msgstr "Uvažanje denarnice..."
+
+#: public/views/importLegacy.html
+msgid "Importing..."
+msgstr "Uvažanje..."
+
+#: src/js/controllers/index.js
+msgid "Japanese"
+msgstr "Japonsko"
+
+#: public/views/create.html public/views/join.html
+msgid "John"
+msgstr "John"
+
+#: public/views/join.html
+msgid "Join"
+msgstr "Pridruži se"
+
+#: public/views/add.html
+msgid "Join shared wallet"
+msgstr "Pridruži se deljeni denarnici"
+
+#: public/views/join.html
+msgid "Joining Wallet..."
+msgstr "Pridružitev denarnici..."
+
+#: public/views/preferences.html
+msgid "Language"
+msgstr "Jezik"
+
+#: public/views/importLegacy.html
+msgid "Learn more about Wallet Migration"
+msgstr "Preberite več o selitvi denarnice"
+
+#: public/views/paymentUri.html
+msgid "Make a payment to"
+msgstr "Opravite plačilo osebi"
+
+#: public/views/create.html public/views/join.html
+msgid "Master extended private key"
+msgstr "Glavni podaljšani zasebni ključ"
+
+#: public/views/includes/copayers.html public/views/modals/copayers.html
+#: public/views/modals/tx-details.html public/views/modals/txp-details.html
+msgid "Me"
+msgstr "Jaz"
+
+#: public/views/modals/paypro.html
+msgid "Memo"
+msgstr "Beležka"
+
+#: public/views/modals/tx-details.html
+msgid "Merchant message"
+msgstr "Sporočilo trgovca"
+
+#: public/views/paymentUri.html
+msgid "Message"
+msgstr "Sporočilo"
+
+#: public/views/walletHome.html
+msgid "More"
+msgstr "Več"
+
+#: public/views/walletHome.html
+msgid "Moved"
+msgstr "Premaknjeno"
+
+#: public/views/walletHome.html
+msgid "Multisignature wallet"
+msgstr "Denarnica z več podpisi"
+
+#: public/views/walletHome.html
+msgid "My Bitcoin address"
+msgstr "Moj creditbit naslov"
+
+#: public/views/paymentUri.html
+msgid "Network"
+msgstr "Omrežje"
+
+#: src/js/services/notificationsService.js
+msgid "New Payment Proposal"
+msgstr "Nov predlog plačila"
+
+#: public/views/modals/confirmation.html
+msgid "No"
+msgstr "Ne"
+
+#: public/views/walletHome.html
+msgid "No transactions yet"
+msgstr "Ni transakcij"
+
+#: public/views/walletHome.html
+msgid "Not valid"
+msgstr "Ni veljavno"
+
+#: public/views/walletHome.html public/views/modals/tx-details.html
+#: public/views/modals/txp-details.html
+msgid "Note"
+msgstr "Opomba"
+
+#: public/views/modals/tx-status.html
+msgid "OKAY"
+msgstr "V REDU"
+
+#: public/views/modals/tx-details.html public/views/modals/txp-details.html
+msgid "Participants"
+msgstr "Udeleženci"
+
+#: public/views/import.html public/views/importLegacy.html
+msgid "Password"
+msgstr "Geslo"
+
+#: public/views/includes/password.html
+msgid "Password cannot be recovered. Be sure to write it down"
+msgstr "Gesla ni mogoče obnoviti. Ne pozabite ga zapisati"
+
+#: src/js/services/profileService.js
+msgid "Password needed"
+msgstr "Zahtevano je geslo"
+
+#: src/js/controllers/password.js
+msgid "Passwords do not match"
+msgstr "Gesli se ne ujemata"
+
+#: public/views/join.html
+msgid "Paste invitation here"
+msgstr "Tukaj prilepite povabilo"
+
+#: public/views/import.html
+msgid "Paste the backup plain text code"
+msgstr "Prilepite kodo varnostne kopije kot golo besedilo"
+
+#: public/views/modals/paypro.html
+msgid "Pay To"
+msgstr "Plačilo za"
+
+#: public/views/modals/tx-status.html
+msgid "Payment Accepted"
+msgstr "Plačilo sprejeto"
+
+#: public/views/modals/txp-details.html
+msgid "Payment Proposal"
+msgstr "Predlog za plačilo"
+
+#: public/views/modals/tx-status.html
+msgid "Payment Proposal Created"
+msgstr "Predlog za plačilo ustvarjen"
+
+#: src/js/services/notificationsService.js
+msgid "Payment Proposal Rejected"
+msgstr "Predlog za plačilo zavrnjen"
+
+#: src/js/services/notificationsService.js
+msgid "Payment Proposal Rejected by Copayer"
+msgstr "Predlog za plačilo zavrnjen s strani creditbit člana"
+
+#: src/js/services/notificationsService.js
+msgid "Payment Proposal Signed by Copayer"
+msgstr "Predlog za plačilo podpisan s strani creditbit člana"
+
+#: public/views/walletHome.html
+msgid "Payment Proposals"
+msgstr "Predlogi za plačilo"
+
+#: src/js/controllers/walletHome.js
+msgid "Payment Protocol not supported on Chrome App"
+msgstr "Chrome App ne podpira predloga za plačilo"
+
+#: public/views/modals/tx-status.html
+msgid "Payment Rejected"
+msgstr "Plačilo zavrnjeno"
+
+#: public/views/modals/tx-status.html src/js/services/notificationsService.js
+msgid "Payment Sent"
+msgstr "Plačilo poslano"
+
+#: public/views/modals/txp-details.html
+msgid "Payment accepted..."
+msgstr "Plačilo sprejeto..."
+
+#: public/views/modals/txp-details.html
+msgid "Payment details"
+msgstr "Podrobnosti o plačilu"
+
+#: public/views/modals/txp-details.html
+msgid "Payment finally rejected"
+msgstr "Plačilo dokončno zavrnjeno"
+
+#: public/views/modals/paypro.html
+msgid "Payment request"
+msgstr "Zahteva za plačilo"
+
+#: public/views/modals/txp-details.html
+msgid "Payment sent!"
+msgstr "Plačilo poslano!"
+
+#: public/views/walletHome.html
+msgid "Payment to"
+msgstr "Plačilo za"
+
+#: public/views/preferencesDeleteWallet.html
+msgid "Permanently delete this wallet. THIS ACTION CANNOT BE REVERSED"
+msgstr "Dokončno izbriši to denarnico. TEGA DEJANJA NI MOGOČE RAZVELJAVITI"
+
+#: public/views/create.html
+msgid "Personal Wallet"
+msgstr "Osebna denarnica"
+
+#: src/js/controllers/create.js src/js/controllers/join.js
+msgid "Please enter the required fields"
+msgstr "Prosimo, izpolnite zahtevana polja"
+
+#: src/js/controllers/import.js
+msgid "Please, select your backup file"
+msgstr "Prosimo, izberite datoteko svoje varnostne kopije"
+
+#: src/js/controllers/index.js
+msgid "Portuguese"
+msgstr "Portugalsko"
+
+#: public/views/walletHome.html
+msgid "Preferences"
+msgstr "Nastavitve"
+
+#: public/views/modals/scanner.html
+msgid "QR-Scanner"
+msgstr "Bralnik QR kod"
+
+#: src/js/controllers/index.js
+msgid "Receive"
+msgstr "Prejmi"
+
+#: public/views/walletHome.html
+msgid "Received"
+msgstr "Prejeto"
+
+#: public/views/walletHome.html
+msgid "Reconnecting to Wallet Service..."
+msgstr "Ponovno povezovanje s storitvami denarnice..."
+
+#: public/views/walletHome.html
+msgid "Recreate"
+msgstr "Obnovi"
+
+#: public/views/walletHome.html
+msgid "Recreating Wallet..."
+msgstr "Obnavljanje denarnice..."
+
+#: public/views/modals/txp-details.html
+msgid "Reject"
+msgstr "Zavrni"
+
+#: src/js/controllers/walletHome.js
+msgid "Rejecting payment"
+msgstr "Zavrnitev plačila"
+
+#: public/views/preferencesAbout.html
+msgid "Release Information"
+msgstr "Objavi informacije"
+
+#: public/views/backup.html public/views/includes/password.html
+msgid "Repeat password"
+msgstr "Ponovno vpišite geslo"
+
+#: public/views/import.html public/views/join.html
+msgid "Required"
+msgstr "Zahtevano"
+
+#: public/views/splash.html
+msgid "Retrying..."
+msgstr "Poizkušam ponovno..."
+
+#: public/views/includes/password.html
+msgid "SET"
+msgstr "NASTAVI"
+
+#: public/views/walletHome.html
+msgid "SKIP BACKUP"
+msgstr "PRESKOČI VARNOSTNO KOPIJO"
+
+#: public/views/preferencesAlias.html public/views/preferencesBwsUrl.html
+#: public/views/preferencesEmail.html
+msgid "Save"
+msgstr "Shrani"
+
+#: public/views/preferencesEmail.html
+msgid "Saving preferences..."
+msgstr "Shranjevanje nastavitev..."
+
+#: src/js/services/notificationsService.js
+msgid "Scan Finished"
+msgstr "Skeniranje končano"
+
+#: public/views/preferencesAdvanced.html
+msgid "Scan addresses for funds"
+msgstr "Skeniraj naslove in išči sredstva"
+
+#: public/views/walletHome.html
+msgid "Scan status finished with error"
+msgstr "Skeniraj stanja in išči končane z napako"
+
+#: public/views/walletHome.html
+msgid "Scanning Wallet funds..."
+msgstr "Skeniranje sredstev v denarnici..."
+
+#: public/views/modals/tx-details.html
+msgid "See it on the blockchain"
+msgstr "Ogled na strani blockchain"
+
+#: public/views/import.html
+msgid "Select a backup file"
+msgstr "Izberite datoteko varnostne kopije"
+
+#: public/views/paymentUri.html
+msgid "Select a wallet"
+msgstr "Izberite denarnico"
+
+#: public/views/create.html
+msgid "Select required number of signatures"
+msgstr "Izberite zahtevano število podpisov"
+
+#: public/views/create.html
+msgid "Select total number of copayers"
+msgstr "Izberite celotno število creditbit članov"
+
+#: public/views/walletHome.html public/views/includes/transaction.html
+#: src/js/controllers/index.js
+msgid "Send"
+msgstr "Pošlji"
+
+#: public/views/backup.html public/views/preferencesLogs.html
+msgid "Send by email"
+msgstr "Pošlji prek e-pošte"
+
+#: public/views/walletHome.html
+msgid "Sent"
+msgstr "Poslano"
+
+#: public/views/importLegacy.html
+msgid "Server"
+msgstr "Strežnik"
+
+#: public/views/preferencesAbout.html
+msgid "Session log"
+msgstr "Dnevnik sej"
+
+#: public/views/backup.html
+msgid "Set up a Password for your backup"
+msgstr "Nastavite geslo za svojo varnostno kopijo"
+
+#: public/views/includes/password.html
+msgid "Set up a password"
+msgstr "Nastavite geslo"
+
+#: public/views/preferencesEmail.html
+msgid ""
+"Setting up email notifications could weaken your privacy, if the wallet "
+"service provider is compromised. Information available to an attacker would "
+"include your wallet addresses and its balance, but no more."
+msgstr ""
+"Vklop obvestil prek e-pošte lahko zmanjša vašo zasebnost, če je ponudnik "
+"storitev denarnice ogrožen. Informacije, do katerih bi imel napadalec dostop bi "
+"vključevale naslove vaše denarnice in stanje, vendar ničesar drugega."
+
+#: public/views/walletHome.html
+msgid "Share address"
+msgstr "Deli naslov"
+
+#: public/views/copayers.html
+msgid "Share invitation"
+msgstr "Deli povabilo"
+
+#: public/views/copayers.html
+msgid "Share this invitation with your copayers"
+msgstr "Delite to povabilo s svojimi creditbit člani"
+
+#: public/views/walletHome.html
+msgid ""
+"Share this wallet address to receive payments. To protect your privacy, new "
+"addresses are generated automatically once you use them."
+msgstr ""
+"Delite naslov te denarnice za prejemanje plačil. Zaradi varovanja vaše zasebnosti se po "
+"uporabi naslovov avtomatsko ustvarijo novi."
+
+#: public/views/create.html
+msgid "Shared Wallet"
+msgstr "Deljena denarnica"
+
+#: public/views/create.html public/views/join.html
+msgid "Show Advanced options"
+msgstr "Prikaži napredne možnosti"
+
+#: src/js/controllers/walletHome.js
+msgid "Signing payment"
+msgstr "Podpisovanje plačila"
+
+#: src/js/controllers/walletHome.js
+msgid "Signing transaction"
+msgstr "Podpisovanje transakcije"
+
+#: src/js/controllers/index.js
+msgid "Spanish"
+msgstr "Špansko"
+
+#: src/js/controllers/copayers.js src/js/controllers/import.js
+#: src/js/controllers/preferencesDelete.js
+msgid "Success"
+msgstr "Uspeh"
+
+#: public/views/walletHome.html
+msgid "Tap to retry"
+msgstr "Pritisnite za ponovni poskus"
+
+#: public/views/disclaimer.html public/views/preferencesAbout.html
+msgid "Terms of Use"
+msgstr "Pogoji uporabe"
+
+#: public/views/create.html
+msgid "Testnet"
+msgstr "Testnet"
+
+#: src/js/controllers/walletHome.js
+msgid ""
+"The payment was created but could not be completed. Please try again from "
+"home screen"
+msgstr ""
+"Plačilo je bilo ustvarjeno, vendar ga ni bilo mogoče opraviti. Prosimo, poskusite ponovno na "
+"domačem zaslonu"
+
+#: src/js/controllers/walletHome.js
+msgid ""
+"The payment was created but could not be signed. Please try again from home "
+"screen."
+msgstr ""
+"Plačilo je bilo ustvarjeno, vendar ga ni bilo mogoče podpisati. Prosimo, poskusite ponovno na "
+"domačem zaslonu."
+
+#: public/views/modals/txp-details.html
+msgid "The payment was removed by creator"
+msgstr "Plačilo je ustvarjalec odstranil"
+
+#: src/js/controllers/walletHome.js
+msgid ""
+"The payment was signed but could not be broadcasted. Please try again from "
+"home screen."
+msgstr ""
+"Plačilo je bilo podpisano, vendar ga ni bilo mogoče prenesti. Prosimo, poskusite ponovno na "
+"domačem zaslonu."
+
+#: public/views/backup.html
+msgid ""
+"The private key for this wallet is encrypted. Exporting a backup will keep "
+"the private key encrypted in the backup archive."
+msgstr ""
+"Zasebni ključ za to denarnico je šifriran. Po izvozu varnostne kopije bo "
+"zasebni ključ v arhivu varnostne kopije še naprej šifriran."
+
+#: src/js/controllers/copayers.js src/js/controllers/preferencesDelete.js
+msgid "The wallet \"{{walletName}}\" was deleted"
+msgstr "Denarnica \"{{walletName}}\" je bila izbrisana"
+
+#: src/js/controllers/import.js
+msgid "There is an error in the form"
+msgstr "Obrazec vsebuje napako"
+
+#: public/views/walletHome.html
+msgid ""
+"This wallet is not registered at the given Bitcore Wallet Service (BWS). You "
+"can recreate it from the local information."
+msgstr ""
+"Ta denarnica ni registrirana v podani creditbit storitvi denarnice (LSD). Obnovite "
+"jo lahko prek lokalnih informacij."
+
+#: public/views/modals/txp-details.html
+msgid "Time"
+msgstr "Čas"
+
+#: public/views/walletHome.html public/views/includes/transaction.html
+#: public/views/modals/tx-details.html public/views/modals/txp-details.html
+msgid "To"
+msgstr "Za"
+
+#: public/views/walletHome.html
+msgid "Total Locked Balance"
+msgstr "Skupno zaklenjeno stanje"
+
+#: public/views/modals/tx-details.html
+msgid "Transaction"
+msgstr "Transakcija"
+
+#: src/js/controllers/walletHome.js
+msgid "Unable to send transaction proposal"
+msgstr "Predloga za transakcijo ni bilo mogoče poslati"
+
+#: public/views/walletHome.html public/views/modals/tx-details.html
+msgid "Unconfirmed"
+msgstr "Nepotrjeno"
+
+#: public/views/preferences.html
+msgid "Unit"
+msgstr "Enota"
+
+#: public/views/walletHome.html
+msgid "Unsent transactions"
+msgstr "Neposlane transakcije"
+
+#: public/views/modals/paypro.html
+msgid "Untrusted"
+msgstr "Nezaupljivi"
+
+#: public/views/walletHome.html
+msgid "Updating Wallet..."
+msgstr "Posodabljanje denarnice..."
+
+#: public/views/preferencesAbout.html
+msgid "Version"
+msgstr "Verzija"
+
+#: public/views/backup.html
+msgid "View backup"
+msgstr "Ogled varnostne kopije"
+
+#: public/views/walletHome.html
+msgid "WARNING: Backup needed"
+msgstr "POZOR: Zahtevana je varnostna kopija"
+
+#: public/views/walletHome.html
+msgid "WARNING: Wallet not registered"
+msgstr "POZOR: Denarnica ni registrirana"
+
+#: public/views/splash.html
+msgid "WELCOME TO COPAY"
+msgstr "DOBRODOŠLI V creditbit"
+
+#: public/views/copayers.html
+msgid "Waiting for copayers"
+msgstr "Čakam na creditbit člane"
+
+#: public/views/copayers.html
+msgid "Waiting..."
+msgstr "Čakam..."
+
+#: public/views/preferences.html
+msgid "Wallet Alias"
+msgstr "Drugo ime denarnice"
+
+#: src/js/services/profileService.js
+msgid "Wallet Already Imported:"
+msgstr "Denarnica že uvožena:"
+
+#: public/views/join.html
+msgid "Wallet Invitation"
+msgstr "Povabilo v denarnico"
+
+#: public/views/join.html
+msgid "Wallet Invitation is not valid!"
+msgstr "Povabilo v denarnico ni veljavno!"
+
+#: src/js/services/profileService.js
+msgid "Wallet already exists"
+msgstr "Denarnica že obstaja"
+
+#: public/views/copayers.html
+msgid "Wallet incomplete and broken"
+msgstr "Denarnica je nepopolna in pokvarjena"
+
+#: public/views/create.html
+msgid "Wallet name"
+msgstr "Ime denarnice"
+
+#: src/js/controllers/walletHome.js
+msgid ""
+"Wallet service timed out. Check your Internet connexion and your wallet "
+"service configuration."
+msgstr ""
+"Časovna omejitev storitev denarnice se je iztekla. Preverite svojo internetno povezavo in "
+"vašo konfiguracijo storitev denarnice."
+
+#: public/views/preferencesDeleteWallet.html
+msgid "Warning!"
+msgstr "Pozor!"
+
+#: src/js/services/profileService.js
+msgid "Wrong password"
+msgstr "Napačno geslo"
+
+#: public/views/modals/confirmation.html
+msgid "Yes"
+msgstr "Da"
+
+#: public/views/walletHome.html
+msgid "You do not have a wallet"
+msgstr "Nimate denarnice"
+
+#: public/views/backup.html public/views/import.html
+msgid "Your backup password"
+msgstr "Geslo vaše varnostne kopije"
+
+#: public/views/create.html public/views/join.html
+msgid "Your nickname"
+msgstr "Vaš vzdevek"
+
+#: public/views/includes/password.html
+msgid "Your password"
+msgstr "Vaše geslo"
+
+#: public/views/importLegacy.html
+msgid "Your profile password"
+msgstr "Geslo vašega profila"
+
+#: src/js/controllers/import.js
+msgid "Your wallet has been imported correctly"
+msgstr "Vaša denarnica je bila pravilno uvožena"
+
+#: public/views/preferencesEmail.html
+msgid "email for wallet notifications"
+msgstr "e-pošta za obvestila o denarnici"
+
+#: public/views/walletHome.html
+msgid "locked by pending payments"
+msgstr "zaklenjeno zaradi plačil v teku"
+
+#: public/views/copayers.html public/views/walletHome.html
+#: public/views/includes/sidebar.html
+msgid "of"
+msgstr "od"
+
+#: public/views/walletHome.html
+msgid "optional"
+msgstr "po želji"
+
+#: public/views/preferences.html
+msgid "settings"
+msgstr "nastavitve"
+
+#: public/views/walletHome.html
+msgid "too long!"
+msgstr "predolgo!"
+
+#: src/js/controllers/importLegacy.js
+msgid ""
+"{{len}} wallets imported. Funds scanning in progress. Hold on to see updated "
+"balance"
+msgstr ""
+"{{len}} uvoženih denarnic. Poteka skeniranje sredstev. Držite, če želite videti "
+"posodobljeno stanje"

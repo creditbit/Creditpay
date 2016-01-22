@@ -1,0 +1,22 @@
+<nav class="tab-bar">
+  <section class="left-small">
+    <a ng-click="cancel()" class="p10">
+      <span class="text-close" translate>Close</span>
+    </a>
+  </section>
+  <section class="middle tab-bar-section">
+    <h1 translate class="title ellipsis">
+      QR-Scanner
+    </h1>
+  </section>
+</nav>
+<div class="modal-content text-center" ng-init="init()">
+  <div id="file-input-wrapper" class="button black round expand" ng-disabled="scannerLoading">
+            <span class="pull-left text-center">
+              <i class="glyphicon glyphicon-refresh icon-rotate"></i>
+              Get QR code
+            </span>
+            <input id="qrcode-camera" type="file" capture="camera" accept="image/*">
+          </div>
+  <canvas id="qr-canvas" width="200" height="150"></canvas>
+</div>
