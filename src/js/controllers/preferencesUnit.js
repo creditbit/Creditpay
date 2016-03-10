@@ -29,11 +29,11 @@ angular.module('copayApp.controllers').controller('preferencesUnitController',
       //   code: 'mbtc',
       // }
        {
-        name: 'CREDIT',
-        shortName: 'CREDIT',
+        name: 'CRBIT',
+        shortName: 'CRBIT',
         value: 100000000,
         decimals: 6,
-        code: 'CREDIT',
+        code: 'CRBIT',
       }
     ];
 

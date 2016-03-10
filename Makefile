@@ -44,12 +44,12 @@ wp8-debug:
 ios-prod:
 	cordova/build.sh IOS --clear
 	cd cordova/project && cordova build ios
-	open cordova/project/platforms/ios/Creditbit.xcodeproj
+	open cordova/project/platforms/ios/Creditpay.xcodeproj
 
 ios-debug:
 	cordova/build.sh IOS --dbgjs
 	cd cordova/project && cordova build ios
-	open cordova/project/platforms/ios/Creditbit.xcodeproj
+	open cordova/project/platforms/ios/Creditpay.xcodeproj
 
 android-prod:
 	cordova/build.sh ANDROID --clear

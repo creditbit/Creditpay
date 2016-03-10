@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="si.netis.creditbit" 
-  version="1.0.0"
-  android-versionCode="89"
-  ios-CFBundleVersion="1.0.0">
-    <name>Creditbit</name>
+<widget id="org.creditbit.creditpay" 
+  version="1.1.0"
+  android-versionCode="91"
+  ios-CFBundleVersion="1.1.0">
+    <name>Creditpay</name>
     <description>
       A Multisig secure Creditbit wallet.
     </description>
-    <author href="https://www.netis.si">
+    <author href="http://www.creditbit.org">
         Netis d.o.o
     </author>
     <content src="index.html" />
