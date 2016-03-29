@@ -25,7 +25,7 @@ angular.module('copayApp.services').factory('configService', function(storageSer
       settings: {
         unitName: 'CRBIT',
         unitToSatoshi: 100000000,
-        unitDecimals: 6,
+        unitDecimals: 8,
         unitCode: 'CRBIT',
         alternativeName: '',
         alternativeIsoCode: '',

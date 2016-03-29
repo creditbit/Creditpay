@@ -32,7 +32,7 @@ angular.module('copayApp.controllers').controller('preferencesUnitController',
         name: 'CRBIT',
         shortName: 'CRBIT',
         value: 100000000,
-        decimals: 6,
+        decimals: 8,
         code: 'CRBIT',
       }
     ];

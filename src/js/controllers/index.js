@@ -419,7 +419,7 @@ angular.module('copayApp.controllers').controller('indexController', function($r
   self.setBalance = function(balance) {
     if (!balance) return;
     var config = configService.getSync().wallet.settings;
-    var COIN = 1e6;
+    var COIN = 1e8;
 
     // Address with Balance
     self.balanceByAddress = balance.byAddress;
