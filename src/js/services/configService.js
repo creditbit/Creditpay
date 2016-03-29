@@ -19,8 +19,8 @@ angular.module('copayApp.services').factory('configService', function(storageSer
     wallet: {
       requiredCopayers: 1,
       totalCopayers: 1,
-      spendUnconfirmed: true,
-      reconnectDelay: 5000,
+      spendUnconfirmed: false,
+      reconnectDelay: 10000,
       idleDurationMin: 4,
       settings: {
         unitName: 'CRBIT',
