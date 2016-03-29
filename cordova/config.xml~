@@ -27,5 +27,4 @@
     <preference name="windows-target-version" value="8.1"/>
     <preference name="Orientation" value="portrait" />
     <preference name="android-minSdkVersion" value="17" />
-    <preference name="AndroidPersistentFileLocation" value="Compatibility" />
 </widget>
