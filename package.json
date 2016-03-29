@@ -2,7 +2,7 @@
   "name": "Creditbit",
   "description": "A multisignature wallet",
   "author": "creditbit",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "keywords": [
     "wallet",
     "copay",
